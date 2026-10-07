@@ -105,7 +105,7 @@ The temperature field shows the thermal distribution within the cold plate under
 
 The contour indicates a spatial temperature gradient across the plate, demonstrating the effect of coolant flow through the serpentine channels on heat removal.
 
-![Design 1 Temperature Contour](images/design1_temperature_contour.png)
+![Design 1 Temperature Contour](images/design1_temp_contour.png)
 
 ---
 
@@ -151,7 +151,7 @@ The temperature field demonstrates a different spatial thermal distribution comp
 
 A pronounced temperature gradient can be observed across the plate, particularly around the central distribution region and downstream sections of the cooling channels.
 
-![Design 2 Temperature Contour](images/design2_temperature_contour.png)
+![Design 2 Temperature Contour](images/design2_temp_contour.png)
 
 ---
 
